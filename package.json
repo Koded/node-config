@@ -17,10 +17,9 @@
   },
   "homepage": "https://github.com/Koded/node-config#readme",
   "dependencies": {
-    "extend": "^3.0.0",
+    "merge": "^1.2.0",
     "js-yaml": "^3.4.6"
   },
   "devDependencies": {
-    "merge": "^1.2.0"
   }
 }
