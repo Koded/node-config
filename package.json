@@ -19,5 +19,8 @@
   "dependencies": {
     "extend": "^3.0.0",
     "js-yaml": "^3.4.6"
+  },
+  "devDependencies": {
+    "merge": "^1.2.0"
   }
 }
